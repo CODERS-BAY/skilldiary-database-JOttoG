@@ -1,0 +1,5 @@
+User Eingabe: ganze Zahl int.
+Überprüfen ob:
+Die Zahl zwischen 8 und 16 Uhr liegt Ausgabe Worktime. -->Lösung mit Switch cases von 8 -11 und von 13-16Uhr
+Die Zahl 12 ist Ausgabe Mittag. -->Lösung mit Switch case 12 
+Default Case Ausgabe Freetime.
