@@ -1,0 +1,3 @@
+Aufgabe zum Kennenlernene von Variablen und Datentypen.
+Verwendung von System.out.format syntax System.out.format("blabla Formatspecifier(%d)", Variable);.
+Zuerst flasche Syntax verwendet mit System.out.format("blabla Formatspecifier(%d)" + variable);
