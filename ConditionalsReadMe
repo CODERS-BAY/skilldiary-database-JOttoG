@@ -1,0 +1,6 @@
+Das Programm soll eine numerische Angabe der Schulnote in eine Textuelle Ausgabe umwandeln.
+Lösung mithilfe von Switch cases. Cases 1 - 5 jeweils die textuelle Ausgabe als Aktion eingeben.
+Nutzung von enhanced Switch für leichtere Schreibweise.
+Switch(grade){
+case 1->System.out.println("Sehr Gut")
+case 2->System.out.println("Gut") etc.
