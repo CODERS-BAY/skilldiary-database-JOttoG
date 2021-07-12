@@ -1,0 +1,4 @@
+Ausgabe des 1x1 bis 10x10
+Bei jeder neuen Reihe soll jeweils am Anfang der Multiplikationsname stehen (1er Reihe, 2er Reihe, etc.).
+Lösung der Ausgabe mit 2 ineinander verschachtelte Schleifen.
+Für die Angabe des Multiplikationsnamen: if welches überprüft was für eine Zahl die erste Zahl ist und überprüft ob j eine 1 ist Spricht die erste Zeile in der neuen Muliplikationsreihe. Ausgabe ist angepasst auf welche Bedingungen zutreffen.
