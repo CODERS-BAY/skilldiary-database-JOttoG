@@ -1,0 +1,6 @@
+Aufgabe FizzBuzz
+Es sollen die Zahlen mithilfe einer Schleife von 1 - 100 ausgegeben werden. 
+Wenn die Zahl durch 3 Teilbar ist soll statt der Zahl der String Fizz ausgegeben werden. --> Lösung überprüfen mit Modulo %3 ob die Zahl ohne Rest durch 3 Teilbar ist. Wenn kein Rest ist wird der String ausgegeben.
+Wenn die Zahl durch 5 Teilbar ist soll statt der Zahl der String Buzz ausgegeben werden. --> Lösung überprüfen mit Modulo %5 ob die Zahl ohne Rest durch 5 Teilbar ist. Wenn kein Rest ist wird der String ausgegeben.
+Wenn die Zahl  durch 3 und 5 Teilbar ist soll statt der Zahl der String FizzBuzz ausgegeben werden. -->Lösung überprüfen mit Modulo %3 ==0 && %5 ==0 ob die Zahl ohne Rest durch 3 und 5 Teilbar ist. Wenn kein Rest ist wird der String ausgegeben. 
+Zuerst sollte die Kondition mit dem Ergebnis FizzBuzz abgefragt werden (durch 3 und 5 teilbar), da es sonst nie zu der Überprüfung kommt, da schon bei einer Zahl die durch 3 und 5 teilbar ist fizz automatisch ausgegeben wird.
