@@ -1,0 +1,6 @@
+Input des Users. User gibt eine ganze Zahl an, diese wird verwendet um mehrere Bedingungen zu überprüfen und verschiedene Ausgaben auszugeben.
+Das Programm soll überprüfen ob:
+Die Zahl eine runde Zahl ist sprich durch 10 teilbar oder eine 0. -->Lösung Modulo % 10 und überprüfen ob der Rest 0 ist.
+Die Zahl eine gerade Zahl ist sprich durch 2 teilbar. -->Lösung Modulo % 2 und überprüfen ob der Rest 0 ist.
+Die Zahl meine Glückszahl ist, die Glückszahl wurde vorher definiert und ausgegeben.-->Lösung Vergleichsoperator ==(input == luckyNumber)
+Die Zahl zweistellig ist --> Lösung Überprüfung ob der Userinput größer als 9 ist. if(input > 9)
