@@ -1,0 +1,10 @@
+ARbeiten mit Strings.
+Verschiedene Ausgaben:
+Großbuchstaben mit format specifier %S statt %s.
+Kleinbuchstaben mit Methode String.toLowerCase(Locale.ROOT)
+Teil des Strings ausgetauscht (World! mit Codersbay!) durch die String replace methode String.replace("World!","Codersbay!")
+Leerzeichen entfernt mit der Replace Methode.
+Ausgabe von 15 mal HelloWorld durch For-Schleifenkonstrukt
+for(int i = 0; i<= 15;i++){
+System.out.printf(i + helloWorld +"\n") //\n newLine für Zeilenumbruch
+}
