@@ -1,0 +1,3 @@
+Einfache Kalkulationen + - * /
+mit Datentypen integer und double
+Ausgabe erfolgt mit printf bessere formatierung der double variablen mit format specifier %5.2f 5 spaces von links weggezählt dann kommt die Ausgabe auf 2 Kommastellen.
