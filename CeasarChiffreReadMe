@@ -1,0 +1,4 @@
+User input wird auf der Konsole eingegeben, dieser Input wird um einen Offset verändert und wieder zurückgegeben.
+Zuerst import von Scanner, bufferedreader, inputstreamreader und IOException
+Frage an den User den Offset als ganzzahl anzugeben.
+erstellen eines bufferedreader objects
