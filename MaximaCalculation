@@ -1,0 +1,6 @@
+Userinput von mehreren Zahlen wenn ein q oder Q eingegeben wird soll die Usereingabe beendet werden.
+Die Zahlen sollen ausgelesen werden und die größte Zahl soll auch ausgegeben werden.
+Verwendung einer ArrayList wegen dynamischer größe.
+Verwendung der Scanner klasse wegen userinput
+Int Biggest Number um die größte Nummer abzuspeichern.
+Boolean Exit Variable um bei der Bedingung Eingabe = "q"/"Q" aus der Schleife zu treten.
