@@ -1,0 +1,7 @@
+Bingo Card Generator
+Bingo Karte generieren mit B 1 -15; I 16 -30; N31 - 45; G46 - 60; O 61 - 75
+Array befüllt mit doppelter Schleife zum überprüfen ob zweimal dieselbe Zahl vorkommt.
+Wenn ja springt das programm wieder in die überschleife und setzt den Überschleifenzähler um 1 zurück.
+Für die N Spalte Ein if wenn die Zählerschleife 2 erreicht spricht das 3. Element wird dieses mit 0 befüllt.
+Methode zum befüllen der Arrays erstellt welche eine zufällige Zahl zwischen min und max auswählt.
+Ausgabe und Formatierung mit verschachtelter Schleife 
