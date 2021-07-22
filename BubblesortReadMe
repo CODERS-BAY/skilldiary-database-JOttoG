@@ -1,0 +1,5 @@
+Bubblesort das erste und zweite Element werden in einem Array verglichen wenn das rechte größer ist,
+wird es mit dem zweiten vertauscht. Dann werden das 2. und 3. Element miteinander verglichen etc.
+Dies wird so oft gemacht bis die Länge des Arrays erreicht wurde.
+Sortieralgorythmus in eigener Methode. Mit einer verschachtelten for-Schleife.
+In der inneren Schleife wird überprüft ob die Zählervariable j+1 eh nicht größer als die Arraylänge ist.
